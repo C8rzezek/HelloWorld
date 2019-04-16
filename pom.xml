@@ -14,6 +14,7 @@
     <artifactId>helloword</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>helloword</name>
+    <packaging>war</packaging>
     <description>Demo project for Spring Boot</description>
 
     <properties>
